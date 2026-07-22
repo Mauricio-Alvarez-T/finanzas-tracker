@@ -1,3 +1,3 @@
-const gastoDeHoy: number = 3500;
-const descripcion: string = "almuerzo";
-console.log(`Hoy gasté $${gastoDeHoy} en ${descripcion}`)
+for (let i = 0; i <= 3; i++){
+    console.log(i);
+}
